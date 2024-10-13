@@ -73,3 +73,4 @@ $termsCH = get_terms(array(
 <?php
 
 get_footer();
+
